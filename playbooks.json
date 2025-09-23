@@ -1,0 +1,68 @@
+{
+  "brakes": {
+    "immediate_steps": [
+      "Detén la unidad si el pedal se va al fondo",
+      "Verifica nivel de líquido de frenos"
+    ],
+    "short_checklist": [
+      "Revisa fugas en latiguillos y calipers",
+      "Purgar el sistema si hay aire",
+      "Revisar servofreno y líneas"
+    ],
+    "ask_for": ["foto_vin", "foto_placa_unidad", "foto_odometro", "foto_tarjeta_circulacion", "fotos_fugas_frenos"],
+    "route_suggestion": "taller"
+  },
+  "oil": {
+    "immediate_steps": [
+      "Detén la unidad si el testigo de aceite está encendido",
+      "Verifica nivel de aceite en frío y superficie nivelada"
+    ],
+    "short_checklist": [
+      "Revisar fugas en cárter/filtro",
+      "Confirmar tipo/viscosidad de aceite"
+    ],
+    "ask_for": ["foto_testigo_aceite", "foto_varilla_aceite", "foto_odometro", "foto_vin", "foto_tarjeta_circulacion", "foto_placa_unidad"],
+    "route_suggestion": "taller"
+  },
+  "cooling": {
+    "immediate_steps": [
+      "Detén la unidad si hay sobrecalentamiento",
+      "Espera a que enfríe antes de abrir depósito"
+    ],
+    "short_checklist": [
+      "Nivel en depósito",
+      "Fugas visibles en mangueras/radiador",
+      "Funcionamiento del ventilador"
+    ],
+    "ask_for": ["foto_vin", "foto_odometro", "foto_tablero_temp", "fotos_fugas_cooling", "foto_tarjeta_circulacion", "foto_placa_unidad"],
+    "route_suggestion": "taller"
+  },
+  "electrical": {
+    "immediate_steps": [
+      "Apaga el sistema si hay olor a quemado/humo"
+    ],
+    "short_checklist": [
+      "Fotos del tablero y fusibles",
+      "Revisar bornes y tierra"
+    ],
+    "ask_for": ["foto_tablero", "foto_fusibles", "foto_vin", "foto_odometro", "foto_tarjeta_circulacion", "foto_placa_unidad"],
+    "route_suggestion": "taller"
+  },
+  "fuel": {
+    "immediate_steps": [
+      "No forzar marcha si hay jaloneos fuertes"
+    ],
+    "short_checklist": [
+      "Filtro de combustible (fecha)",
+      "Presión de combustible"
+    ],
+    "ask_for": ["foto_odometro", "video_falla", "foto_vin", "foto_tarjeta_circulacion", "foto_placa_unidad"],
+    "route_suggestion": "taller"
+  },
+  "general": {
+    "immediate_steps": [],
+    "short_checklist": [],
+    "ask_for": ["foto_vin", "foto_odometro", "foto_tarjeta_circulacion", "foto_placa_unidad"],
+    "route_suggestion": "evaluar"
+  }
+}

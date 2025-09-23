@@ -1,0 +1,51 @@
+internal_ref,name,has_oem,has_aftermarket,in_catalog,in_components
+04465-26420,,False,True,False,False
+10FCA-00518-200,Sensor de posición del cigüeñal (Crankshaft position sensor),False,True,True,False
+10FCA-08524-200,Sensor de oxígeno (Oxygen sensor),False,True,True,False
+10FCA-14507-200,,True,False,False,False
+10FCA-14509-200,,False,True,False,False
+10FCA-21512-200,,False,True,False,False
+11FCA-04501-200,Bobina de encendido (Ignition coil),False,True,True,False
+11FCA-04505-200,Bujía (Spark plug),False,True,True,False
+11FCC-09010-C2,Elemento de filtro de aire (Filter element),False,True,True,False
+11Z15-05010,Filtro de combustible (Fuel filter),False,True,True,False
+133TZ-06501,Termostato (Thermostat),False,True,True,False
+13FCA-00502-200,,False,True,False,False
+16FCA-00501-200,Disco de embrague (Clutch driven disc assembly),False,True,True,False
+16FCA-00502-200,Plato de presión de embrague (Clutch cover assembly),False,True,True,False
+16FCU-04020,Cilindro de embrague (Clutch slave cylinder),False,True,True,False
+16Z15-05010,Bomba de embrague (Clutch master cylinder),False,True,True,False
+170GD-00503,,False,True,False,False
+17FC2-03025,Palanca de cambios (Gearshift mechanism assembly),True,False,True,False
+17FC2-03065,,False,True,False,False
+24FC1-00512,Tambor de freno trasero (Rear brake drum),False,True,True,True
+24FC1-00558,,True,False,False,False
+24FC1-00562,,False,True,False,False
+24FC1-00563,,True,False,False,False
+24FC1-00571,,False,True,False,False
+24FCC-00502-A,,False,True,False,True
+24FCC-00701-A,,False,True,False,False
+29Z15-02131-A,Perno en U (U bolt),False,True,True,False
+29Z15-02502,,True,False,False,False
+29Z15-15001,Barra de torsión (izquierda) (Torsion bar spring left),True,False,True,False
+29Z15-21020,,False,True,False,False
+29Z15-25010,Brazo de control superior con rótula (izquierdo) (Upper arm with Ball Pin left),True,False,True,False
+29Z15-25020,Brazo de control superior con rótula (derecho) (Upper arm with Ball Pin right),True,False,True,False
+29Z15-25050,,False,True,False,False
+29Z15-25501,Mangueta de dirección izquierda (left steering knuckle),False,True,True,False
+29Z15-25502,Mangueta de dirección derecha (Right steering knuckle),False,True,True,False
+29Z15-25508,Balero de maza (Bearing),False,True,True,True
+29Z15-25511,Disco de freno (Brake disc),False,True,True,False
+29Z15-25538,,False,True,False,False
+29Z15-25543,,False,True,False,False
+29Z15-25559,,False,True,False,False
+29Z15-25563,,True,False,False,False
+29Z15-25619,Amortiguador delantero (Front shock absorber assembly),False,True,True,True
+30Z15-00011,Juego de balatas (Brake lining assembly),False,True,True,False
+30Z15-00015,Caliper de freno (izquierdo) (Brake caliper left),False,True,True,False
+34FC1-01010,Caja de dirección (Steering gear),False,True,True,False
+35FCC-51010,Bomba de frenos con booster (Brake master cylinder),False,True,True,False
+373TZ-01501,Alternador (Alternator),False,True,True,False
+373TZ-08501,Motor de arranque (Starter),False,True,True,False
+90915-YZZE1,,False,True,False,True
+90916-02570,,False,True,False,True

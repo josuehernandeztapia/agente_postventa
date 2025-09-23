@@ -1,0 +1,1220 @@
+{
+  "04465-26420": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Akyoto",
+        "part_number": "AKD26420",
+        "description": "Pastillas de freno Akyoto AKD26420",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "NIBK",
+        "part_number": "PN1516",
+        "description": "Pastillas de freno NIBK PN1516",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "GDB7579",
+        "description": "Pastillas de freno TRW GDB7579",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "10FCA-00518-200": {
+    "name": "Sensor de posición del cigüeñal (Crankshaft position sensor)",
+    "equivalents": [
+      {
+        "provider": "Denso",
+        "part_number": "190500-2240",
+        "description": "Sensor de posición cigüeñal Denso 190500-2240",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "NGK",
+        "part_number": "70098",
+        "description": "Sensor de posición cigüeñal NGK 70098",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Standard Motor Products",
+        "part_number": "PC640",
+        "description": "Sensor de posición cigüeñal SMP PC640",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "10FCA-08524-200": {
+    "name": "Sensor de oxígeno (Oxygen sensor)",
+    "equivalents": [
+      {
+        "provider": "Bosch",
+        "part_number": "15733",
+        "description": "Sensor de oxígeno Bosch 15733",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Denso",
+        "part_number": "234-9006",
+        "description": "Sensor de oxígeno Denso 234-9006",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "NGK",
+        "part_number": "OZA669-EC3",
+        "description": "Sensor de oxígeno NGK OZA669-EC3",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "10FCA-14507-200": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "12204-0C030",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "10FCA-14509-200": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Denso",
+        "part_number": "196300-2010",
+        "description": "Sensor de posición árbol de levas Denso 196300-2010",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "NGK",
+        "part_number": "94472",
+        "description": "Sensor de posición árbol de levas NGK 94472",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Standard Motor Products",
+        "part_number": "PC492",
+        "description": "Sensor de posición árbol de levas SMP PC492",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "10FCA-21512-200": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Aisin",
+        "part_number": "PMP-0152",
+        "description": "Bomba de dirección Aisin PMP-0152",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Cardone",
+        "part_number": "206605",
+        "description": "Bomba de dirección Cardone 206605 (exchange)",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "JPR173",
+        "description": "Bomba de dirección TRW JPR173",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "11FCA-04501-200": {
+    "name": "Bobina de encendido (Ignition coil)",
+    "equivalents": [
+      {
+        "provider": "Beck Arnley",
+        "part_number": "178-7495",
+        "description": "Bobina de encendido Beck Arnley 178-7495",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Denso",
+        "part_number": "673-1303",
+        "description": "Bobina de encendido Denso 673-1303",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "NGK",
+        "part_number": "U5039",
+        "description": "Bobina de encendido NGK U5039",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "11FCA-04505-200": {
+    "name": "Bujía (Spark plug)",
+    "equivalents": [
+      {
+        "provider": "Denso",
+        "part_number": "SKJ20DR-M11",
+        "description": "Bujía iridium Denso SKJ20DR-M11",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Denso",
+        "part_number": "FK20HR11",
+        "description": "Bujía iridium Denso FK20HR11",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "NGK",
+        "part_number": "LFR5AIX-11",
+        "description": "Bujía iridium NGK LFR5AIX-11",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "11FCC-09010-C2": {
+    "name": "Elemento de filtro de aire (Filter element)",
+    "equivalents": [
+      {
+        "provider": "Hengst",
+        "part_number": "E309L09",
+        "description": "Filtro de aire equivalente Hengst E309L09",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Mahle",
+        "part_number": "LX3805",
+        "description": "Filtro de aire equivalente Mahle LX3805",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "WIX",
+        "part_number": "WA10829",
+        "description": "Filtro de aire equivalente WIX WA10829",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "11Z15-05010": {
+    "name": "Filtro de combustible (Fuel filter)",
+    "equivalents": [
+      {
+        "provider": "Baldwin",
+        "part_number": "BF7534",
+        "description": "Filtro de combustible equivalente Baldwin BF7534",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Mahle",
+        "part_number": "KL145",
+        "description": "Filtro de combustible equivalente Mahle KL145",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "WIX",
+        "part_number": "WL7401",
+        "description": "Filtro de combustible equivalente WIX WL7401",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "133TZ-06501": {
+    "name": "Termostato (Thermostat)",
+    "equivalents": [
+      {
+        "provider": "Gates",
+        "part_number": "TH26819",
+        "description": "Termostato Gates TH26819",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Mahle",
+        "part_number": "TH26819",
+        "description": "Termostato Mahle TH26819",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Vemo",
+        "part_number": "V20-67-0073",
+        "description": "Termostato Vemo V20-67-0073",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "13FCA-00502-200": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "AISIN",
+        "part_number": "WPT-168V",
+        "description": "Bomba de agua AISIN WPT-168V",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "GRAF",
+        "part_number": "PA1080",
+        "description": "Bomba de agua GRAF PA1080",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "KAMOKA",
+        "part_number": "T0267",
+        "description": "Bomba de agua KAMOKA T0267",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "16FCA-00501-200": {
+    "name": "Disco de embrague (Clutch driven disc assembly)",
+    "equivalents": [
+      {
+        "provider": "LuK",
+        "part_number": "624-0310",
+        "description": "Kit de embrague LuK 624-0310",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Sachs",
+        "part_number": "3000960001",
+        "description": "Kit de embrague Sachs 3000 960 001",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Valeo",
+        "part_number": "826793",
+        "description": "Kit de embrague Valeo 826793",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "16FCA-00502-200": {
+    "name": "Plato de presión de embrague (Clutch cover assembly)",
+    "equivalents": [
+      {
+        "provider": "LuK",
+        "part_number": "624-0310",
+        "description": "Kit de embrague LuK 624-0310",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Sachs",
+        "part_number": "3000960001",
+        "description": "Kit de embrague Sachs 3000 960 001",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Valeo",
+        "part_number": "826793",
+        "description": "Kit de embrague Valeo 826793",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "16FCU-04020": {
+    "name": "Cilindro de embrague (Clutch slave cylinder)",
+    "equivalents": [
+      {
+        "provider": "AISIN",
+        "part_number": "CST-023",
+        "description": "Cilindro de embrague AISIN CST-023",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "LuK",
+        "part_number": "535-0200",
+        "description": "Cilindro de embrague LuK 535-0200",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "PSC65",
+        "description": "Cilindro de embrague TRW PSC65",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "16Z15-05010": {
+    "name": "Bomba de embrague (Clutch master cylinder)",
+    "equivalents": [
+      {
+        "provider": "AISIN",
+        "part_number": "CMT-048",
+        "description": "Bomba de embrague AISIN CMT-048",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "LuK",
+        "part_number": "520-0350",
+        "description": "Bomba de embrague LuK 520-0350",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "PMF598",
+        "description": "Bomba de embrague TRW PMF598",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "170GD-00503": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Exedy",
+        "part_number": "RB-C2012-SA314",
+        "description": "Collarín de embrague Exedy RB-C2012-SA314",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "LuK",
+        "part_number": "602-0310",
+        "description": "Collarín de embrague LuK 602-0310",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Valeo",
+        "part_number": "826793",
+        "description": "Collarín de embrague Valeo 826793",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "17FC2-03025": {
+    "name": "Palanca de cambios (Gearshift mechanism assembly)",
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "33530-26240",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "17FC2-03065": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Dormann",
+        "part_number": "15232",
+        "description": "Cable de transmisión Dormann 15232",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Febi",
+        "part_number": "49732",
+        "description": "Cable de transmisión Febi 49732",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TSK",
+        "part_number": "33820-26280",
+        "description": "Cable de transmisión TSK 33820-26280",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "24FC1-00512": {
+    "name": "Tambor de freno trasero (Rear brake drum)",
+    "equivalents": [
+      {
+        "provider": "Blue Print",
+        "part_number": "ADT34710",
+        "description": "Tambor de freno Blue Print ADT34710",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Brembo",
+        "part_number": "14.5163.10",
+        "description": "Tambor de freno Brembo 14.5163.10",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "DF4242",
+        "description": "Tambor de freno TRW DF4242",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": true
+    }
+  },
+  "24FC1-00558": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "42421-26030",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "24FC1-00562": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "KOYO",
+        "part_number": "BR303320D",
+        "description": "Pista de maza KOYO BR303320D",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "NTN",
+        "part_number": "LM102949/LM102910",
+        "description": "Pista de maza NTN LM102949/LM102910",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "SKF",
+        "part_number": "BR303320",
+        "description": "Pista de maza SKF BR303320",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "24FC1-00563": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "43517-35010",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "24FC1-00571": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Febest",
+        "part_number": "0282-TRH200R",
+        "description": "Semieje Febest 0282-TRH200R",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "GSP",
+        "part_number": "NC11198",
+        "description": "Semieje GSP NC11198",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TrakMotive",
+        "part_number": "TO-8034",
+        "description": "Semieje TrakMotive TO-8034",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "24FCC-00502-A": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Aisin",
+        "part_number": "BKH-0004",
+        "description": "Kit de ajustadores Aisin BKH-0004",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Febi",
+        "part_number": "25388",
+        "description": "Kit de ajustadores Febi 25388",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "KSP266",
+        "description": "Kit de ajustadores TRW KSP266",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": true
+    }
+  },
+  "24FCC-00701-A": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Bendix",
+        "part_number": "2289",
+        "description": "Balatas Bendix 2289",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Brembo",
+        "part_number": "S24 508",
+        "description": "Balatas Brembo S24 508",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "GSP2147T",
+        "description": "Balatas TRW GSP2147T",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-02131-A": {
+    "name": "Perno en U (U bolt)",
+    "equivalents": [
+      {
+        "provider": "Sin proveedor",
+        "part_number": null,
+        "description": "Sin equivalente aftermarket y sin referencia Toyota",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "29Z15-02502": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "48046-26130",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-15001": {
+    "name": "Barra de torsión (izquierda) (Torsion bar spring left)",
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "48162-26520",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "29Z15-21020": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Ashika",
+        "part_number": "MA-20096",
+        "description": "Amortiguador trasero Ashika MA-20096",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "KYB",
+        "part_number": "344204",
+        "description": "Amortiguador trasero KYB 344204",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Sachs",
+        "part_number": "317169",
+        "description": "Amortiguador trasero Sachs 317 169",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-25010": {
+    "name": "Brazo de control superior con rótula (izquierdo) (Upper arm with Ball Pin left)",
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "48067-29215",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "29Z15-25020": {
+    "name": "Brazo de control superior con rótula (derecho) (Upper arm with Ball Pin right)",
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "48067-29215",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "29Z15-25050": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Febi",
+        "part_number": "48226",
+        "description": "Rótula Pitman Febi 48226",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "MOOG",
+        "part_number": "TO-BJ-15985",
+        "description": "Rótula Pitman Moog TO-BJ-15985",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "JBJ7551",
+        "description": "Rótula Pitman TRW JBJ7551",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-25501": {
+    "name": "Mangueta de dirección izquierda (left steering knuckle)",
+    "equivalents": [
+      {
+        "provider": "555 Japan",
+        "part_number": "SC8095L",
+        "description": "Mango dirección izquierdo 555 Japan SC8095L",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "MOOG",
+        "part_number": "EV80050",
+        "description": "Mango dirección izquierdo Moog EV80050",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "TIS509",
+        "description": "Mango dirección izquierdo TRW TIS509",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "29Z15-25502": {
+    "name": "Mangueta de dirección derecha (Right steering knuckle)",
+    "equivalents": [
+      {
+        "provider": "555 Japan",
+        "part_number": "SC8095R",
+        "description": "Mango dirección derecho 555 Japan SC8095R",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "MOOG",
+        "part_number": "EV80051",
+        "description": "Mango dirección derecho Moog EV80051",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "TIS508",
+        "description": "Mango dirección derecho TRW TIS508",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "29Z15-25508": {
+    "name": "Balero de maza (Bearing)",
+    "equivalents": [
+      {
+        "provider": "FAG",
+        "part_number": "713621130",
+        "description": "Rodamiento de rueda FAG 713 6211 30",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "OPTIMAL",
+        "part_number": "981846",
+        "description": "Rodamiento de rueda Optimal 981846",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "SKF",
+        "part_number": "VKBA7497",
+        "description": "Rodamiento de rueda SKF VKBA 7497",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": true
+    }
+  },
+  "29Z15-25511": {
+    "name": "Disco de freno (Brake disc)",
+    "equivalents": [
+      {
+        "provider": "Bosch",
+        "part_number": "0986479R27",
+        "description": "Disco de freno Bosch 0 986 479 R27",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Brembo",
+        "part_number": "09.B063.10",
+        "description": "Disco de freno Brembo 09.B063.10",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "DF6481",
+        "description": "Disco de freno TRW DF6481",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "29Z15-25538": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Sin proveedor",
+        "part_number": null,
+        "description": "Sin equivalente aftermarket y sin referencia Toyota",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-25543": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Lemförder",
+        "part_number": "28860 01",
+        "description": "Barra estabilizadora Lemförder 28860 01",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "MOOG",
+        "part_number": "K200856",
+        "description": "Barra estabilizadora Moog K200856",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "JAR1159",
+        "description": "Barra estabilizadora TRW JAR1159",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-25559": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Febi",
+        "part_number": "33594",
+        "description": "Tope de suspensión Febi 33594",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "KYB",
+        "part_number": "SM5581",
+        "description": "Tope de suspensión KYB SM5581",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Sachs",
+        "part_number": "817817",
+        "description": "Tope de suspensión Sachs 817817",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-25563": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Toyota OEM",
+        "part_number": "48661-26050",
+        "description": "Requiere pieza OEM o sin equivalente aftermarket",
+        "type": "oem"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": false
+    }
+  },
+  "29Z15-25619": {
+    "name": "Amortiguador delantero (Front shock absorber assembly)",
+    "equivalents": [
+      {
+        "provider": "Febest",
+        "part_number": "01110-016F",
+        "description": "Amortiguador delantero Febest 01110-016F",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "KYB",
+        "part_number": "344493",
+        "description": "Amortiguador delantero KYB 344493",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Sachs",
+        "part_number": "315016",
+        "description": "Amortiguador delantero Sachs 315 016",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": true
+    }
+  },
+  "30Z15-00011": {
+    "name": "Juego de balatas (Brake lining assembly)",
+    "equivalents": [
+      {
+        "provider": "Bendix",
+        "part_number": "MKD533U",
+        "description": "Pastillas de freno Bendix MKD533U",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Jurid",
+        "part_number": "750-650731",
+        "description": "Pastillas de freno Jurid 750-650731",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "GDB1763",
+        "description": "Pastillas de freno TRW GDB1763",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "30Z15-00015": {
+    "name": "Caliper de freno (izquierdo) (Brake caliper left)",
+    "equivalents": [
+      {
+        "provider": "Aisin",
+        "part_number": "CBR-0713",
+        "description": "Caliper Aisin CBR-0713 (remanufacturado)",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Cardone",
+        "part_number": "18-9809",
+        "description": "Caliper Cardone 18-9809 (nuevo)",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "CBR1423",
+        "description": "Caliper TRW CBR1423 (remanufacturado)",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "34FC1-01010": {
+    "name": "Caja de dirección (Steering gear)",
+    "equivalents": [
+      {
+        "provider": "Aisin",
+        "part_number": "CHP-0047",
+        "description": "Cremallera de dirección Aisin CHP-0047 (exchange)",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Cardone",
+        "part_number": "26-2672",
+        "description": "Cremallera de dirección Cardone 26-2672 (remanufacturado)",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "RSP1789",
+        "description": "Cremallera de dirección TRW RSP1789 (exchange)",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "35FCC-51010": {
+    "name": "Bomba de frenos con booster (Brake master cylinder)",
+    "equivalents": [
+      {
+        "provider": "AISIN",
+        "part_number": "BMT-072",
+        "description": "Cilindro maestro de frenos AISIN BMT-072",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Bosch",
+        "part_number": "F026T02503",
+        "description": "Cilindro maestro de frenos Bosch F026T02503",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "TRW",
+        "part_number": "BMF1082",
+        "description": "Cilindro maestro de frenos TRW BMF1082",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "373TZ-01501": {
+    "name": "Alternador (Alternator)",
+    "equivalents": [
+      {
+        "provider": "Denso",
+        "part_number": "104210-4280",
+        "description": "Alternador Denso 104210-4280",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Denso",
+        "part_number": "104210-4281",
+        "description": "Alternador Denso 104210-4281",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "PSH",
+        "part_number": "195.953.130",
+        "description": "Alternador PSH 195.953.130",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "373TZ-08501": {
+    "name": "Motor de arranque (Starter)",
+    "equivalents": [
+      {
+        "provider": "Bosch",
+        "part_number": "SR440X",
+        "description": "Motor de arranque Bosch SR440X",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Denso",
+        "part_number": "100211-7240",
+        "description": "Motor de arranque Denso 100211-7240",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Remy",
+        "part_number": "16895",
+        "description": "Motor de arranque Remy 16895",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": true,
+      "components": false
+    }
+  },
+  "90915-YZZE1": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "Bosch",
+        "part_number": "0986AF0273",
+        "description": "Filtro de aceite equivalente Bosch 0986AF0273",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Fram",
+        "part_number": "PH4967",
+        "description": "Filtro de aceite equivalente Fram PH4967",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Mann-Filter",
+        "part_number": "W68/3",
+        "description": "Filtro de aceite equivalente Mann W68/3",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": true
+    }
+  },
+  "90916-02570": {
+    "name": null,
+    "equivalents": [
+      {
+        "provider": "ACDelco",
+        "part_number": "3K340",
+        "description": "Correa ACDelco 3K340",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Bando",
+        "part_number": "3PK865",
+        "description": "Correa Bando 3PK865",
+        "type": "aftermarket"
+      },
+      {
+        "provider": "Gates",
+        "part_number": "K030340",
+        "description": "Correa Gates K030340",
+        "type": "aftermarket"
+      }
+    ],
+    "sources": {
+      "catalog": false,
+      "components": true
+    }
+  }
+}

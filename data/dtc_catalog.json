@@ -1,0 +1,148 @@
+{
+  "codes": {
+    "ENG-001": {
+      "category": "motor",
+      "subcategory": "Arranque",
+      "description": "El motor no gira o gira muy lento",
+      "severity": "critical"
+    },
+    "ENG-002": {
+      "category": "motor",
+      "subcategory": "Rendimiento",
+      "description": "Pérdida evidente de potencia durante la conducción",
+      "severity": "urgent"
+    },
+    "ENG-003": {
+      "category": "motor",
+      "subcategory": "Rendimiento",
+      "description": "El motor se apaga inesperadamente durante la conducción",
+      "severity": "critical"
+    },
+    "ENG-004": {
+      "category": "motor",
+      "subcategory": "Sobrecalentamiento",
+      "description": "Indicador de temperatura del refrigerante en zona roja",
+      "severity": "critical"
+    },
+    "OIL-001": {
+      "category": "motor",
+      "subcategory": "Lubricación",
+      "description": "Luz de advertencia de baja presión de aceite encendida",
+      "severity": "critical"
+    },
+    "ELEC-001": {
+      "category": "eléctrico",
+      "subcategory": "Sistema de Carga",
+      "description": "Luz de advertencia del sistema de carga (batería) encendida",
+      "severity": "urgent"
+    },
+    "BRK-001": {
+      "category": "frenos",
+      "subcategory": "Sistema Principal",
+      "description": "Luz de advertencia del sistema de frenos encendida",
+      "severity": "critical"
+    },
+    "BRK-002": {
+      "category": "frenos",
+      "subcategory": "Sistema Principal",
+      "description": "El pedal del freno se siente esponjoso o requiere más fuerza",
+      "severity": "critical"
+    },
+    "BRK-003": {
+      "category": "frenos",
+      "subcategory": "Desgaste",
+      "description": "Se escucha un silbido o rechinido constante al frenar (desgaste de balatas)",
+      "severity": "normal"
+    },
+    "ABS-001": {
+      "category": "frenos",
+      "subcategory": "ABS",
+      "description": "La luz de advertencia del ABS se queda encendida",
+      "severity": "normal"
+    },
+    "P0031": {
+      "category": "motor",
+      "subcategory": "Sensores de Oxígeno",
+      "description": "Circuito de control del calentador del sensor de O2 bajo (Banco 1, Sensor 1)",
+      "severity": "normal"
+    },
+    "P0107": {
+      "category": "motor",
+      "subcategory": "Sistema de Admisión",
+      "description": "Circuito de presión absoluta del colector (MAP) bajo",
+      "severity": "urgent"
+    },
+    "P0117": {
+      "category": "motor",
+      "subcategory": "Sistema de Enfriamiento",
+      "description": "Circuito del sensor de temperatura del refrigerante del motor (ECT) bajo",
+      "severity": "urgent"
+    },
+    "P0122": {
+      "category": "motor",
+      "subcategory": "Sistema de Aceleración",
+      "description": "Circuito del sensor de posición del acelerador (TPS) bajo",
+      "severity": "critical"
+    },
+    "P0131": {
+      "category": "motor",
+      "subcategory": "Sensores de Oxígeno",
+      "description": "Circuito del sensor de O2 con bajo voltaje (Banco 1, Sensor 1)",
+      "severity": "normal"
+    },
+    "P0171": {
+      "category": "motor",
+      "subcategory": "Sistema de Combustible",
+      "description": "Sistema demasiado pobre (Banco 1)",
+      "severity": "urgent"
+    },
+    "P0300": {
+      "category": "motor",
+      "subcategory": "Encendido",
+      "description": "Fallo de encendido aleatorio/múltiple detectado",
+      "severity": "critical"
+    },
+    "P0335": {
+      "category": "motor",
+      "subcategory": "Sensores de Posición",
+      "description": "Falla en el circuito del sensor de posición del cigüeñal (CKP)",
+      "severity": "critical"
+    },
+    "P0340": {
+      "category": "motor",
+      "subcategory": "Sensores de Posición",
+      "description": "Falla en el circuito del sensor de posición del árbol de levas (CMP)",
+      "severity": "urgent"
+    },
+    "P0420": {
+      "category": "motor",
+      "subcategory": "Sistema de Escape",
+      "description": "Eficiencia del sistema catalizador por debajo del umbral (Banco 1)",
+      "severity": "normal"
+    },
+    "P0506": {
+      "category": "motor",
+      "subcategory": "Sistema de Ralentí",
+      "description": "RPM del sistema de control de aire de ralentí más bajas de lo esperado",
+      "severity": "normal"
+    },
+    "P0606": {
+      "category": "motor",
+      "subcategory": "ECU",
+      "description": "Falla del procesador del ECM/PCM",
+      "severity": "critical"
+    },
+    "P2101": {
+      "category": "motor",
+      "subcategory": "Sistema de Aceleración",
+      "description": "Rango/Rendimiento del circuito del motor de control del actuador del acelerador",
+      "severity": "critical"
+    },
+    "U0001": {
+      "category": "red",
+      "subcategory": "Comunicación CAN",
+      "description": "Bus de comunicación CAN de alta velocidad",
+      "severity": "urgent"
+    }
+  }
+}
