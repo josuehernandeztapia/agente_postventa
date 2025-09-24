@@ -1,0 +1,5 @@
+placa,fecha_dia,downtime_hours,activity_drop_pct
+A00001A,2025-07-01,12,25
+A00001A,2025-07-02,0,30
+A00002A,2025-07-01,48,55
+A00002A,2025-07-02,6,42
